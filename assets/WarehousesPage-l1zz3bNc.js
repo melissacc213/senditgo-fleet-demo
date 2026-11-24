@@ -1,4 +1,4 @@
-import{r as c,e2 as x,j as s,aL as m,bf as g,y as u,bN as f,N as t,P as a,k as n,e3 as j}from"./index-fhkW_Fc4.js";import{d as $,b as y,u as v}from"./index-PDv1v5xY.js";import{I as o}from"./parts-CZ0ATX7u.js";import"./CopyOutlined-fWRB8KzL.js";const G=n.div`
+import{r as c,e2 as x,j as s,aL as m,bf as g,y as u,bN as f,N as t,P as a,k as n,e3 as j}from"./index-DC7n9e85.js";import{d as $,b as y,u as v}from"./index-CfTNPwFF.js";import{I as o}from"./parts-TY0XF1nv.js";import"./CopyOutlined-6Xrge2uq.js";const G=n.div`
   display: grid;
   gap: ${t.sectionGap}px;
   align-content: start;
